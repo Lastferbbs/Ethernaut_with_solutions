@@ -1,0 +1,1 @@
+To force ether to the contract that won't accept transfer, there are 2 ways, as a block mining reward and by using selfdestruct, which deletes contract from blockchain and sends remaining ether to designated address.

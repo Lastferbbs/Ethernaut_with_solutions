@@ -1,0 +1,1 @@
+This level needs good debug to know how much gas we have left. To calculate key we take 8 bytes of our address (16 chars), then we take last 4 chars from address then we add 4 zeros then we add 4 chars and 1 must be non zero, then we add 4 random bytes. 

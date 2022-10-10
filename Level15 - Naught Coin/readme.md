@@ -1,0 +1,1 @@
+To complete level we need to use transferFrom and let other contract approve to transfer our coins.

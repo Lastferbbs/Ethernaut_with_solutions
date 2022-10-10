@@ -1,0 +1,1 @@
+It's easy, expoit how price is calculated and use your tokens to drain liquidity of one of them.

