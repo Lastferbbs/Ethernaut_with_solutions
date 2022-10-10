@@ -1,4 +1,5 @@
-Level 1 - https://medium.com/@lastferbbs/ethernaut-web3-solidity-based-wargame-level-1-with-solution-471788454082
+Level 1 - Fallback
+ https://medium.com/@lastferbbs/ethernaut-web3-solidity-based-wargame-level-1-with-solution-471788454082
 
 Level 2 -Fallout
 In older version of solidity (up to 0.4.21) consturctor was defined as a function with the same name as a contract
